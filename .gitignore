@@ -16,5 +16,8 @@ teht5/*.user
 teht6/build/
 teht6/*.user
 
+teht6Count/build/
+teht6Count/*.user
+
 teht7/build/
 teht7/*.user
